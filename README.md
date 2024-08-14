@@ -1,2 +1,2 @@
-# jira-node-editor
-JIRA node based query editor
+Jira node based query editor
+By: Johnson Lu
